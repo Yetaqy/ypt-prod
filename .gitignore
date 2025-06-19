@@ -1,0 +1,9 @@
+*.pyc
+/ypt-dev
+*.pyc
+*.pyc
+/__pycache__
+data/telecom_current.json
+data/telecom_current.json
+data/campaign_current.json
+data/bundles_current.json
